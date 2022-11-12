@@ -1,6 +1,7 @@
+[![@ishaniroy19's Holopin board](https://holopin.me/ishaniroy19)](https://holopin.io/@ishaniroy19)
 <h1 align="center">Hi 👋, I'm Ishani Roy</h1>
 <h3 align="center">A passionate Learner</h3>
-<h4 [![@ishaniroy19's Holopin board](https://holopin.me/ishaniroy19)](https://holopin.io/@ishaniroy19) </h4>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishani-19&label=Profile%20views&color=0e75b6&style=flat" alt="ishani-19" /> </p>
 
 - 🌱 I’m currently learning **Computer Science(BS)-Computer Science and Business System**
